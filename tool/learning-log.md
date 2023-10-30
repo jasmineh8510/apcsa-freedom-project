@@ -1,16 +1,14 @@
 # Tool Learning Log
 
-Tool: **X**
+Tool: **Unreal Engine**
 
-Project: **X**
+Project: **Story game**
 
 ---
 
-X/X/X:
-* Text
-
-X/X/X:
-* Text
+10/29/23:
+* [Unreal Engine's starter course](https://dev.epicgames.com/community/learning/courses/3ke/your-first-hour-in-unreal-engine-5-2/vvdk/your-first-hour-in-unreal-engine-5-2-overview)
+* [A begining tutorial](https://www.youtube.com/watch?v=LeY6tAP-qss)
 
 
 <!-- 
