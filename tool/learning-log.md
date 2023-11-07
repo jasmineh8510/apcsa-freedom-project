@@ -20,7 +20,10 @@ Project: **Story game**
 11/6/23:
 * I made the base house. In this part of following the tutorial I changed up a big part. In the tutorial they showed how to make a 1 story house, however to challenge my skills I decided to make a 2 story house with a set of stairs to the 2nd floor
 * Started by using starting meshes for the walls and learned how to alt+click to duplicate meshes. Then I added stairs which there was already a preset for so I just had to increase the number of steps.
-* I 
+* I originally went to go make the 2nd floor by creating one box to model, then duplicating it to make the other part of the floor, except the 2nd part of the floor would be smaller so that there would be room for the player to go up with the stairs. However this didn't work because when I duplicated the modeled floor and went to go change some properties, when I changed the new box it changed the old one.
+* I couldn't use multiple sections for the 2nd floor so I thought of an alternative. I decided I would use one modeled box for the floor and then make a space where the stairs could acess the 2nd floor. My first attempt seemed promising as I had used "cut face" to seperate a section of the floor from the main section. After I cut a strip of the floor I "disconnected" it and was able to move it as if it was it's own mesh and pushed it back til there was a hole for the stairs. However when actually testing the hole wasn't there
+* I had a suspicion that there technically wasn't an actual hole in the mesh that the player could go through and it was confirmed when I selected the floor. From there I undid what I tried and started again by modeling the box for the floor and making it cover up to every wall. Then instead of cutting the face of the box I selected, I used "Poly cut" to cut and actual part out of the mesh which would prevent any collisions. This ended up solving my issue
+* I carried on with the tutorial after making the 2nd story and then learned how to add materials/textures to the meshes which I decided to change up and personalize
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
