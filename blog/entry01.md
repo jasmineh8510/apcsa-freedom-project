@@ -7,6 +7,12 @@ Over the past few weeks I have been figuring out what I want to do for my next p
 ### Learning UE
 
 ### EDP & Skills
+In the Engineering Design Process (EDP) I am currently on stage 1(Define) and 2(Research). This is because during this time I am defining what I want to do with my project and learning more about my chosen game engine.
+
+In terms of skills I have been practicing learning on my own by googling and reading documentation and resources. During this time I have also been doing lots of debugging and problem solving when it comes to learning how to work with meshes, especially when extending the house to have a 2nd floor which required figuring out how to cut meshes.
+
+### Next
+I am planning on finishing the tutorial video. After that I saw that there is an UE tutorial provided by freeCodeCamp that caught my eye, so it is likely I will spend my time on that next.
 
 [Next](entry02.md)
 
