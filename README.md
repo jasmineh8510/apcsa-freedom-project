@@ -1,22 +1,22 @@
 # APCSA Freedom Project
-by **X**
+by **Jasmine Hidalgo**
 
 ## Context
 I am a student at [HSTAT](https://www.hstat.org/) in the [Software Engineering Program](https://hstatsep.github.io/). The "Freedom Project" for AP Computer Science A is a year-long project all about making anything using technology.
 
-For my project, I chose to independently study **X** in order to help me make **X**.
+For my project, I chose to independently study game engines such as UE5 and Unity in order to help me make a scavenger hunt game.
 
 ## Links
 
-[Product]()
+[Game Video Demo](https://drive.google.com/file/d/1-Ah6M_UuwBt81gXk9QZR85aUaVUjdgrq/view?usp=sharing)
 
-[Presentation]()
+[Presentation](https://docs.google.com/presentation/d/11pHvo3cMQut-5OxekJXQzPLwr-tqhxDpO8Van4T5QKs/edit?usp=sharing)
 
 ## Implications
 ##### PROS
-* 
+* Just like any other game, it is meant to give simple fun to anyone who would like to play it.
 ##### CONS
-* 
+* Other than enjoyment there may not be any significant benefits. 
 
 
 ## Blog
