@@ -15,6 +15,8 @@ For my project, I chose to independently study game engines such as UE5 and Unit
 ## Implications
 ##### PROS
 * Just like any other game, it is meant to give simple fun to anyone who would like to play it.
+* Socially, games are fun for individuals and groups of people who can bond over them
+
 ##### CONS
 * Other than enjoyment there may not be any significant benefits. 
 
